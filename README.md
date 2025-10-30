@@ -1,4 +1,4 @@
--IT
-  -web computing
-  -mobile
-  -multimedia
+- IT
+  - web computing
+  - mobile
+  - multimedia
