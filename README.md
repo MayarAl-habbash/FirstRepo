@@ -1,2 +1,1 @@
-- [x] Finish homework
-- [ ] Study Git
+`` Deleted``
