@@ -1,2 +1,2 @@
-- [ ] Finish your hw
-- [ ] do the web
+- [x] Finish homework
+- [ ] Study Git
