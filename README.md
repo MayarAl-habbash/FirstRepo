@@ -10,7 +10,5 @@ _l o u s i n_
 _hi_
 ``This is strike``
 `zzzzz`
-<sub>hi again</sub>
-
-<sup>hi again</sup>
+<sub>hi again</sub><sup>hi again</sup>
 
