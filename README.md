@@ -1,2 +1,2 @@
-- [] Finish your hw
-- [] do the web
+- [ ] Finish your hw
+- [ ] do the web
