@@ -1,3 +1,4 @@
-| Mayar | | Said |
-|-----| |-----|
-| web | | doctor |
+| Name | Role |
+|------|------|
+| Mayar | Developer |
+| Ahmad | Designer |
