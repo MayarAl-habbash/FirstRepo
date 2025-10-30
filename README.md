@@ -1,3 +1,3 @@
-|Mayar| |Said|
-|-----|-----|
-|web| |doctor|
+| Mayar | | Said |
+| ----- | ----- |
+| web | | doctor |
